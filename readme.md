@@ -2,4 +2,4 @@ Code for the paper 'Clustered Embedding Learning for Recommender Systems'.
 
 The code is implemented for the Movielens-1m dataset (https://grouplens.org/datasets/movielens/1m/). 
 
-Launch with main.py.
+You may start with main.py.
